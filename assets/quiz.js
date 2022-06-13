@@ -72,7 +72,7 @@ function setTime() {
       }
   
     }, 1000);
-    getNewQuestion();
+    getNewQuestion(); // calls upon function to begin a new question
   }
 
   // function begins quiz

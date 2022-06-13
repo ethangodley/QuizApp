@@ -11,7 +11,7 @@ renderMessage(); // calls function to display high scores
 
 // function displays high scores
 function renderMessage() {
-    if(highScores !== null) {
+    if(highScores !== null) { // if highScores does not equal null, execute code within
         for(let i = 0; i < highScores.length; i++) { // for as long as i is less than the length of highScores, execute code within
           document.querySelector(".displayScores").innerHTML += highScores[i].name + " scored " + highScores[i].score + "<br/>"; // displays scores in DOM
         }

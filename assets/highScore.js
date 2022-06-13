@@ -1,7 +1,7 @@
 const displayScores = document.getElementById('displayScores') // links javascript to HTML element via class "displayScores and assgns to a variable"
 const highScores = JSON.parse(localStorage.getItem("highScores")) || []; // reads local storage for high scores and assigns scores to a variable
 
-renderMessage(); // calls upon renderMessage function
+renderMessage(); // calls upon renderMessage function and executes function
 
 // Function displays highscores stored in local storage
 function renderMessage() {
