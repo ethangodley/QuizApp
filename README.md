@@ -6,7 +6,7 @@
 ### Please find URL here: https://ethangodley.github.io/QuizApp/
 ### The website should look like the images included below
 
-![Target website look](./Mockup/03-javascript-homework-demo.png)
-![Target website look](./Mockup/03-javascript-homework-demo.png)
-![Target website look](./Mockup/03-javascript-homework-demo.png)
-![Target website look](./Mockup/03-javascript-homework-demo.png)
+![Target website look](./assets/Mockup/Home.png)
+![Target website look](./assets/Mockup/quiz.png)
+![Target website look](./assets/Mockup/Score.png)
+![Target website look](./assets/Mockup/highScore.png)
